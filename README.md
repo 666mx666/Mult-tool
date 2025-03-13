@@ -11,6 +11,7 @@
 
 ## Usage  
 Run the tool and select the type of credentials you need. You can customize the output based on your preferences.  
+You can use a password manager for this project, generate the password and then use for example proton pass manger, don't use google passmanger, they steal the data. 
 
 ## Installation  
 Clone the repository and install dependencies (if required):  
@@ -24,7 +25,3 @@ Founded and created by **666mx666**.
 
 ## Contributing  
 Feel free to submit issues or contribute improvements!  
-
----
-
-Let me know if you want any changes! 🔥🚀
